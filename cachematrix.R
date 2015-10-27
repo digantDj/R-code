@@ -1,7 +1,6 @@
 ## The following functions cache and compute the 
 ## inverse of special "matrix" object that can be cached.
 
-
 ## This function creates a special "matrix" object
 ## that can cache its inverse.
 
